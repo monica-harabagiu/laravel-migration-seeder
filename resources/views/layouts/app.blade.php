@@ -11,6 +11,6 @@
 <body>
 
     @include('pages.welcome')
-    
+
 </body>
 </html>
