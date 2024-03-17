@@ -10,7 +10,7 @@
 </head>
 <body>
 
-    <h1>Ciao</h1>
+    @include('pages.welcome')
     
 </body>
 </html>
